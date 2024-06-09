@@ -1,4 +1,5 @@
-#Neuro-Tau
+**Neuro-Tau Project**
+
 This repository contains the code and documentation for my research project utilizing the Alzheimer's Disease Neuroimaging Initiative (ADNI) dataset.
 
 **Overview**
